@@ -51,16 +51,12 @@ const DEFAULT_EMOTIONS = [
 ];
 
 const DISCOVER_ITEMS = [
-  { title: "엔하이픈 (ENHYPEN) - Bite Me", url: "https://www.youtube.com/watch?v=wXFLzOT_6_M", type: "무대", color: "bg-brand-blue" },
-  { title: "뉴진스 (NewJeans) - OMG", url: "https://www.youtube.com/watch?v=sVTy_w_N8D0", type: "직캠", color: "bg-brand-pink" },
+  { title: "엔하이픈 (ENHYPEN) - No Doubt", url: "https://youtu.be/7nT4-kGpLBk?si=5Teh8lm02WduMQWp", type: "퍼포먼스", color: "bg-brand-blue" },
+  { title: "&TEAM (앤팀) - Firework", url: "https://youtu.be/aWDQwM2b_Oc?si=IZ6V4Hblz7NyLsRI", type: "무대", color: "bg-brand-pink" },
   { title: "에스파 (aespa) - Drama", url: "https://www.youtube.com/watch?v=D8VEhcPeSlc", type: "M/V", color: "bg-brand-green" },
-  { title: "세븐틴 (SEVENTEEN) - 손오공", url: "https://www.youtube.com/watch?v=9S_wH780DUM", type: "Performance", color: "bg-brand-yellow" },
-  { title: "르세라핌 (LE SSERAFIM) - UNFORGIVEN", url: "https://www.youtube.com/watch?v=rXyAtqCHmAc", type: "무대", color: "bg-brand-blue" },
-  { title: "아이브 (IVE) - I AM", url: "https://www.youtube.com/watch?v=6ZUIwj3FgUY", type: "M/V", color: "bg-brand-pink" },
-  { title: "스트레이 키즈 (Stray Kids) - 특 (S-Class)", url: "https://www.youtube.com/watch?v=JsOOis4bBFg", type: "직캠", color: "bg-brand-green" },
-  { title: "방탄소년단 (BTS) - Dynamite", url: "https://www.youtube.com/watch?v=gdZLi9oWNZg", type: "무대", color: "bg-brand-yellow" },
-  { title: "블랙핑크 (BLACKPINK) - Pink Venom", url: "https://www.youtube.com/watch?v=gQlMMD8auMs", type: "M/V", color: "bg-brand-blue" },
-  { title: "트와이스 (TWICE) - Set Me Free", url: "https://www.youtube.com/watch?v=w4c-7_8S7Lw", type: "Performance", color: "bg-brand-pink" },
+  { title: "아이브 (IVE) - Bang Bang", url: "https://youtu.be/ThViJ6Xh5OE?si=pId4DvQHBedZ3buo", type: "무대", color: "bg-brand-yellow" },
+  { title: "최예나 (YENA) - 캐치캐치", url: "https://youtu.be/erNe2L0beR0?si=XuCKTPnX0wAb2VR9", type: "무대", color: "bg-brand-blue" },
+  { title: "Hearts2Hearts (하츠투하츠) - RUDE!", url: "https://youtu.be/j3gznEhDUK8?si=cEWgYUqrU0iLtkt2", type: "M/V", color: "bg-brand-pink" },
 ];
 
 const PRESET_IDOLS = [
